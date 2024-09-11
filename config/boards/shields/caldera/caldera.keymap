@@ -26,6 +26,7 @@
         Num {
             display-name = "NUM";
             bindings = <
+&trans  &trans     &trans  &trans   &trans  &trans       &trans  &trans  &trans  &trans  &trans   &trans
 &trans  &kp LBKT   &kp N7  &kp N8   &kp N9  &kp RBKT     &trans  &trans  &trans  &trans  &kp SQT  &trans
 &trans  &kp SEMI   &kp N4  &kp N5   &kp N6  &kp EQUAL    &trans  &trans  &trans  &trans  &trans   &trans
 &trans  &kp GRAVE  &kp N1  &kp N2   &kp N3  &kp BSLH     &trans  &trans  &trans  &trans  &trans   &trans
@@ -36,6 +37,7 @@
         Sym {
             display-name = "SYM";
             bindings = <
+&trans  &trans         &trans        &trans         &trans         &trans           &trans     &trans  &trans  &trans  &trans  &trans
 &trans  &kp LS(LBRC)   &kp LS(AMPS)  &kp LS(STAR)   &kp LS(LPAR)   &kp LS(RBRC)     &trans     &trans  &trans  &trans  &trans  &trans
 &trans  &kp LS(COLON)  &kp LS(DLLR)  &kp LS(PRCNT)  &kp LS(CARET)  &kp LS(PLUS)     &kp EQUAL  &trans  &trans  &trans  &trans  &trans
 &trans  &kp LS(TILDE)  &kp LS(EXCL)  &kp LS(AT)     &kp LS(POUND)  &kp LS(PIPE)     &trans     &trans  &trans  &trans  &trans  &trans
@@ -46,6 +48,7 @@
         Fun {
             display-name = "FUN";
             bindings = <
+&trans      &trans        &trans                &trans        &trans        &trans          &trans  &trans          &trans          &trans  &trans     &trans
 &bt BT_CLR  &bt BT_SEL 0  &bt BT_SEL 1          &bt BT_SEL 2  &bt BT_SEL 3  &bt BT_SEL 4    &trans  &trans          &trans          &trans  &trans     &trans
 &trans      &trans        &kp LG(LS(NUMBER_4))  &trans        &trans        &trans          &trans  &kp LEFT_ARROW  &kp DOWN_ARROW  &kp UP  &kp RIGHT  &trans
 &trans      &trans        &trans                &trans        &trans        &trans          &trans  &trans          &trans          &trans  &trans     &trans
